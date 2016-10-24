@@ -1,4 +1,4 @@
-#!/Users/swallacertp/Library/venv/bin/python
+#!/usr/local/bin/python
 import sys, json, datetime
 import ibmiotf.device
 from ibmiotf.codecs import jsonIotfCodec
